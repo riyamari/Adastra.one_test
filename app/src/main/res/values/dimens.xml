@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+
+<resources>
+
+
+    <!--Standard Size-->
+    <dimen name="dimen_zero_dp">0dp</dimen>
+    <dimen name="dimen_quarter_dp">.25dp</dimen>
+    <dimen name="dimen_half_dp">.5dp</dimen>
+    <dimen name="dimen_third_quarter_dp">.75dp</dimen>
+    <dimen name="dimen_one_dp">1dp</dimen>
+    <dimen name="dimen_two_dp">2dp</dimen>
+    <dimen name="dimen_three_dp">3dp</dimen>
+    <dimen name="dimen_four_dp">4dp</dimen>
+    <dimen name="dimen_five_dp">5dp</dimen>
+
+
+    <!--Standard Spacing-->
+    <dimen name="standard_spacing_atom">1dp</dimen>
+    <dimen name="standard_spacing_nano">2dp</dimen>
+    <dimen name="standard_spacing_micro">4dp</dimen>
+    <dimen name="standard_spacing_small">8dp</dimen>
+    <dimen name="standard_spacing_mini">10dp</dimen>
+    <dimen name="standard_spacing_normal">12dp</dimen>
+    <dimen name="standard_spacing_medium">20dp</dimen>
+    <dimen name="standard_spacing_semi">20dp</dimen>
+    <dimen name="standard_spacing_max">24dp</dimen>
+    <dimen name="standard_spacing_large">32dp</dimen>
+    <dimen name="standard_spacing_xlarge">48dp</dimen>
+    <dimen name="standard_spacing_huge">64dp</dimen>
+
+
+    <!--Common Text Size-->
+    <dimen name="standard_text_size_nano">4sp</dimen>
+    <dimen name="standard_text_size_micro">6dp</dimen>
+    <dimen name="standard_text_size_small">8sp</dimen>
+    <dimen name="standard_text_size_small_x">10sp</dimen>
+    <dimen name="standard_text_size_small_xx">12sp</dimen>
+    <dimen name="standard_text_size_small_xx_1">13sp</dimen>
+    <dimen name="standard_text_size_small_xxx">14sp</dimen>
+    <dimen name="standard_text_size_medium">24sp</dimen>
+    <dimen name="standard_text_size_medium_x">18sp</dimen>
+    <dimen name="standard_text_size_medium_xx">20sp</dimen>
+    <dimen name="standard_text_size_medium_xxx">22sp</dimen>
+    <dimen name="standard_text_size_large">24sp</dimen>
+    <dimen name="standard_text_size_large_x">26sp</dimen>
+    <dimen name="standard_text_size_large_xx">28sp</dimen>
+    <dimen name="standard_text_size_large_xxx">30sp</dimen>
+    <dimen name="standard_text_size_max">32sp</dimen>
+    <dimen name="standard_text_size_max_x">34sp</dimen>
+    <dimen name="standard_text_size_max_xx">36sp</dimen>
+    <dimen name="standard_text_size_max_xxx">38sp</dimen>
+    <dimen name="standard_text_size_huge">40sp</dimen>
+    <dimen name="standard_text_size_huge_x">42sp</dimen>
+    <dimen name="standard_text_size_huge_xx">44sp</dimen>
+    <dimen name="standard_text_size_huge_xxx">46sp</dimen>
+
+
+
+
+</resources>
