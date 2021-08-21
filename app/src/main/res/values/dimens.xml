@@ -22,6 +22,7 @@
     <dimen name="standard_spacing_small">8dp</dimen>
     <dimen name="standard_spacing_mini">10dp</dimen>
     <dimen name="standard_spacing_normal">12dp</dimen>
+    <dimen name="standard_spacing_xnormal">16dp</dimen>
     <dimen name="standard_spacing_medium">20dp</dimen>
     <dimen name="standard_spacing_semi">20dp</dimen>
     <dimen name="standard_spacing_max">24dp</dimen>

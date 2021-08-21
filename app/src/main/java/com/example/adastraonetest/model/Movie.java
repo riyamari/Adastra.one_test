@@ -4,24 +4,33 @@ import com.google.gson.annotations.SerializedName;
 
 public class Movie {
 
-    @SerializedName("title")
-    private String title;
+    @SerializedName("name")
+    private String name;
 
-    @SerializedName("image")
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @SerializedName("imageurl")
     private String imageUrl;
 
-    public Movie(String title, String imageUrl) {
-        this.title = title;
-        this.imageUrl = imageUrl;
+    @SerializedName("moviename")
+    private String moviename;
+
+    public String getMoviename() {
+        return moviename;
     }
 
-    public String getTitle() {
-        return title;
+    public void setMoviename(String moviename) {
+        this.moviename = moviename;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
+
+
 
     public String getImageUrl() {
         return imageUrl;
